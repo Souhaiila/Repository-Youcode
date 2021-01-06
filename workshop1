@@ -1,0 +1,55 @@
+1- 
+Application de commande : man
+
+2- 
+Il me demmande de spécifier la page du manuel que je veux 
+pour afficher la page exacte que je veux
+
+3- 
+la commande man ls donne une déscription de la commande ls 
+
+4-
+"espace" page suivante
+"Entrée" ligne suivante
+"b" page précédent
+"G" fin de page
+"p" début de page
+"/" recherche
+"n" recherche précédent
+
+5-
+manls : commande intouvable il ne fonctionne pas parce qu'il n'est pas connu 
+la commande man 3 ls : Aucune entrée de manuel pour ls en section 3
+
+6-
+ls -l : affichage de tous les informations plus détailler dans la liste (les droits, date, taille..)
+ls -h : permet d'afficher la liste des fichers d'un répertoire
+ls -l -h : -h associé avec -l affiche la taille des fichier avec un suffixe correspondant à l'unité (K, M, G)
+ls -lh : meme resultats donner quand on utilise la commande "ls -l -h"
+
+7-
+ls -lct : permet de trier les fichiers et repertpoire par date de modification decroissante
+ls -a : affichage des fichiers et repertoires cachés
+ls /etc/ : affichage de contenu de fichier etc
+lsusb : permetter d'afficher les informations lier au USB buses dans le systeme et le appareils connecté
+ls --color : permet de modifier la couleur de l'ecriture on ajoutant "=" (ls --color=auto : donne la couleur bleu,ls --color=never : éliminer les couleurs)
+
+8-
+pwd : affichage de repertoire en cours 
+cd / : permet de revenir au racine de l'ensemble du systeme de fichier
+quand je lance la commande pwd aprés la commande cd / je reste dans la racine
+
+9-
+cd : revenir au repertoire 
+cd ~ : cd
+cd .. : permet d'accéder au repertoire parent
+cd /usr/bin : se deplace dans le repertoire usr/bin
+cd - : revenir au repertoire précédant
+
+10-
+fait 
+
+11-
+fait 
+
+12-
