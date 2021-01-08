@@ -72,4 +72,19 @@ Fait
 creation d'un lien symbolique avec la commande "ln -s" (le chemain complet de la racourrci)
 annulation de ce lien c'est par l'utilisation de la commande unlink (le racourrci)
 
+18-
+pour faire de modification dans un fichier on utulise a commande
+cat >readme.md
+'bonjour hanae'
+^C
+
+19-
+fait
+
+20-
+fait
+
+21-
+fait
+
 
