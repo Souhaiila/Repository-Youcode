@@ -64,3 +64,12 @@ mv : deplacer le fichier
 
 15-
 cp : fait 
+
+16-
+Fait 
+
+17-
+creation d'un lien symbolique avec la commande "ln -s" (le chemain complet de la racourrci)
+annulation de ce lien c'est par l'utilisation de la commande unlink (le racourrci)
+
+
