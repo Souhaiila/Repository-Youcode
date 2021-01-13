@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610532534 source:/home/souhaila/github_directory/Repository-Youcode/haisou/workshop2/programme1.c
+	<stdio.h>
+	<stdlib.h>
+
